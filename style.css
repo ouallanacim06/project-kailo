@@ -1,0 +1,9 @@
+.bg1{
+    background-image: url(triangles-1430105.svg);
+    background-size: cover; /* Cover the entire body with the image */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    margin: 0 ;
+    padding: 0;
+    height: 100%;
+}
