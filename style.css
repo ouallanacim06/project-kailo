@@ -1,9 +1,16 @@
 .bg1{
-    background-image: url(triangles-1430105.svg);
+    background-image: url(bg1.svg);
     background-size: cover; /* Cover the entire body with the image */
     background-position: center; /* Center the image */
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     margin: 0 ;
     padding: 0;
     height: 100%;
+}
+.con_nave{
+    padding: 35px;
+    text-align: justify;
+    flex-wrap: wrap;
+    background: #5c5a5a;
+    opacity: 0.4;
 }
